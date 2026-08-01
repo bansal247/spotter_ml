@@ -1,0 +1,27 @@
+{
+  "feature_cols": [
+    "pickup_lat",
+    "pickup_lon",
+    "delivery_lat",
+    "delivery_lon",
+    "weight",
+    "market_index",
+    "quote_signal",
+    "day_of_week",
+    "day_of_month",
+    "month",
+    "log_distance",
+    "equip_Dry Van",
+    "equip_Flatbed",
+    "equip_Reefer",
+    "weight_was_missing",
+    "market_index_was_missing"
+  ],
+  "weight_median": 31436.5,
+  "market_index_median": 1.0558,
+  "equip_categories": [
+    "Dry Van",
+    "Flatbed",
+    "Reefer"
+  ]
+}
